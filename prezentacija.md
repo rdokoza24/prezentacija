@@ -13,7 +13,7 @@ Discord je digitalna platforma za glasovne, video i tekstualne razgovore dizajni
 *Zašto je Discord važan za IT stručnjake?*  
 - Omogućuje efikasnu komunikaciju u timu.  
 - Pruža integracije s drugim alatima kao što su GitHub, Trello i Slack.  
-- Popularan je za hosting tehničkih radionica i virtualnih hackathona.  
+- Popularan je za grupne projekte i slično.  
 
 ![Discord Logo](https://th.bing.com/th/id/R.bc183321338d8b98088de4bf51913285?rik=8ixu3hF9JR2tsg&pid=ImgRaw&r=0)
 
