@@ -38,7 +38,7 @@ Discord je digitalna platforma za glasovne, video i tekstualne razgovore dizajni
 - #projekti - Diskusija o projektima.  
 - #qa-pitanja - Mjesto za pitanja i odgovore.  
 
-![Discord Server](https://cdn.discordapp.com/attachments/123456789/example-image.png)
+![Discord Server](https://support.discord.com/hc/article_attachments/14711116453143)
 
 ---
 
@@ -47,9 +47,9 @@ Discord je digitalna platforma za glasovne, video i tekstualne razgovore dizajni
 1. Posjetite [discord.com](https://discord.com) i preuzmite aplikaciju.  
 2. Instalirajte na Windows, MacOS, Linux ili mobilne uređaje.  
 
-![Discord Installation](https://cdn.discordapp.com/attachments/123456789/installation-guide.png)
+![Discord Installation](https://lh5.googleusercontent.com/waggYk7PfK22ox_h0T6V7q7LKjNcJ-sacaj_GYyji8I9_ACDH7IPC0YgDHqmmesYW8UxEePRJXeeMjUJHe8wV2K3aNbU234gzJj1_q_F8dXeFrvPI88zVnGkp8yS5Tpd9U9dIji_5TN6-T8lhOSyGPk)
 
-### Kako započeti rad?
+### Kako koristiti Discord?
 - *Registracija:* Kreirajte račun s e-mail adresom.  
 - *Postavljanje servera:* Kliknite na *+* za kreiranje vlastitog servera.  
 - *Dodavanje članova:* Dijelite pozivni link.  
@@ -58,9 +58,9 @@ Discord je digitalna platforma za glasovne, video i tekstualne razgovore dizajni
 
 # Prednosti i nedostaci
 ### Prednosti:
-- Besplatna platforma s bogatim mogućnostima.  
+- Besplatna platforma s puno mogućnosti.  
 - Podrška za *screen sharing* i *streaming*.  
-- Intuitivno sučelje prilagođeno početnicima.
+- Sučelje prilagođeno početnicima.
 
 ### Nedostaci:
 - Može zahtijevati dodatne resurse na starijim uređajima.  
@@ -69,10 +69,8 @@ Discord je digitalna platforma za glasovne, video i tekstualne razgovore dizajni
 ---
 
 # Zaključak
-### Što sam naučio o Discordu?
+### Kratko o Discordu.
 - Discord je idealan alat za timsku komunikaciju i suradnju, pružajući jednostavnost i fleksibilnost.  
-
-### Preporuka:
 - Preporučujem ga za projekte, virtualne sastanke i razmjenu tehničkog znanja.  
 
 ![Discord Collaboration](https://cdn.discordapp.com/attachments/123456789/collaboration-example.png)
@@ -80,6 +78,5 @@ Discord je digitalna platforma za glasovne, video i tekstualne razgovore dizajni
 ---
 
 # Reference
-- [Discord službena stranica](https://discord.com)  
-- "Kako koristiti Discord za posao" - TechBlog, 2023.  
+- [Discord službena stranica](https://discord.com)    
 - Dokumentacija: [Discord Developer Portal](https://discord.com/developers/docs)
