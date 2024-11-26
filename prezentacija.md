@@ -15,7 +15,7 @@ Discord je digitalna platforma za glasovne, video i tekstualne razgovore dizajni
 - Pruža integracije s drugim alatima kao što su GitHub, Trello i Slack.  
 - Popularan je za hosting tehničkih radionica i virtualnih hackathona.  
 
-![Discord Logo](https://th.bing.com/th/id/OIP.EZkdm25nbQDs_PjFN8hmewHaHa?rs=1&pid=ImgDetMain)
+![Discord Logo]([https://th.bing.com/th/id/OIP.EZkdm25nbQDs_PjFN8hmewHaHa?rs=1&pid=ImgDetMain](https://th.bing.com/th/id/R.bc183321338d8b98088de4bf51913285?rik=8ixu3hF9JR2tsg&pid=ImgRaw&r=0))
 
 ---
 
