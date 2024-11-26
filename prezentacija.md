@@ -20,23 +20,22 @@ Discord je digitalna platforma za glasovne, video i tekstualne razgovore dizajni
 ---
 
 # Glavne značajke
-1. *Kanalizirani razgovori:* Organizirajte rasprave u tematske kanale.  
+1. *Tematski razgovori:* Organizirajte rasprave u tematske kanale.  
 2. *Glasovne i video sobe:* Savršeno za timske sastanke ili virtualne radionice.  
-3. *Botovi i integracije:* Automatizirajte zadatke i povežite se s alatima.  
-4. *Prilagodljive postavke privatnosti:* Sigurna komunikacija.  
-5. *Besplatan pristup osnovnim funkcionalnostima.*
+3. *Botovi i integracije:* Automatizirajte zadatke i povežite se s alatima.   
+4. *Besplatan pristup osnovnim funkcionalnostima.*
 
 ---
 
 # Praktični primjeri korištenja
 ### IT stručnjaci koriste Discord za:
 - Hostanje *programerskih zajednica*.  
-- Organizaciju *tehničkih meetupa* i *Q&A sesija*.  
-- Razmjenu *kodnih snippeta* i dokumentacije.  
+- Organizaciju *tehničkih meetupa*.  
+- Razmjenu *kodova* i dokumentacije.  
 
 *Primjer kanala:*  
 - #projekti - Diskusija o projektima.  
-- #qa-pitanja - Mjesto za pitanja i odgovore.  
+- #razgovor - Mjesto za pitanja i odgovore.  
 
 ![Discord Server](https://support.discord.com/hc/article_attachments/14711116453143)
 
