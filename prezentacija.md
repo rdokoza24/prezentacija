@@ -1,8 +1,8 @@
 # Discord: Platforma za Komunikaciju i Suradnju
-*Autor:* Vaše Ime i Prezime  
+*Autor:* Roko Dokoza  
 *Studijski program:* Stručni prijediplomski studij Informacijske tehnologije  
 *Predmet:* Akademsko i tehničko pisanje  
-*Datum izrade:* 21. studeni 2024.
+*Datum izrade:* 25. studeni 2024.
 
 ---
 
